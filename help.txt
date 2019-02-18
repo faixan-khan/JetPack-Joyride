@@ -1,0 +1,9 @@
+- Throw balloons by "f" key which kills only firelines on collision.
+- jump through "up" key.
+- At last viserion will arrive.
+- background panning.
+- Magnet implemented.
+- Gravity
+- Platform, wall, coin.
+- Firelines, Firebeams, black boomerang are 2 types.
+- Semicircular ring is implemented.
