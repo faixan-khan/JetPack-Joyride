@@ -1,4 +1,0 @@
-- make a directory called build.
-- run command "cmake .."
-- run command "make all"
-- execute "./graphics_assgn" file
